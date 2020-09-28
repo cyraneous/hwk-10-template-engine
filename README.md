@@ -8,6 +8,11 @@ Once the team leader is added, begin adding team members
 Using the list of team members, generate the html page containing all members of the team
 
 Usage
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> f231b3b6c7c58bfd003f8023d33bc8af71aade29
 
 Tests
 
