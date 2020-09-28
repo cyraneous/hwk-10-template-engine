@@ -15,7 +15,6 @@ Tests
 
 ![Alt-text](https://github.com/cyraneous/hwk-4-code-quiz/blob/master/assets/Homework%204-1.JPG)
 
-
 Output
 
 ![Alt-text](https://github.com/cyraneous/hwk-4-code-quiz/blob/master/assets/Homework%204-1.JPG)
