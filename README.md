@@ -7,17 +7,12 @@ Using the command line, prompt the team leader to enter their information
 Once the team leader is added, begin adding team members
 Using the list of team members, generate the html page containing all members of the team
 
-Usage
-<<<<<<< HEAD
-=======
 
-
->>>>>>> f231b3b6c7c58bfd003f8023d33bc8af71aade29
 
 Tests
 
-![Alt-text](https://github.com/cyraneous/hwk-4-code-quiz/blob/master/assets/Homework%204-1.JPG)
+![Alt-text](https://github.com/cyraneous/hwk-10-template-engine/blob/master/assets/Tests.JPG)
 
 Output
 
-![Alt-text](https://github.com/cyraneous/hwk-4-code-quiz/blob/master/assets/Homework%204-1.JPG)
+![Alt-text](https://github.com/cyraneous/hwk-10-template-engine/blob/master/assets/Output.JPG)
